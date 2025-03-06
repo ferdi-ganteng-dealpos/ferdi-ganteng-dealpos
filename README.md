@@ -12,7 +12,7 @@
 - 😄 Pronouns: AFAAN/TUH
 - ⚡ Fun fact: AFAAN TUH
 
-![](https://user-images.githubusercontent.com/507615/90595977-95e70e80-e220-11ea-864a-6a61adaff212.png)
+![]([https://user-images.githubusercontent.com/507615/90595977-95e70e80-e220-11ea-864a-6a61adaff212.png](https://i.ibb.co.com/JjRcZqCx/image-removebg-preview-2025-02-13-T153434-147.png))
 
 
 <!---

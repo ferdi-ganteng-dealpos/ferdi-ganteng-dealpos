@@ -130,6 +130,9 @@
        alt="Welcome to my Github Profile" />
 </div>
 
+
+
+
 - 👋 Hi, I’m @ferdi-ganteng-dealpos
 - 👀 I’m interested in AFAAN TUH
 - 🌱 I’m currently learning AFAAN TUH

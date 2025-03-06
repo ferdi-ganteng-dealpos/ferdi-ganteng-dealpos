@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <br />
+  <br />
+</div>
+
 - 👋 Hi, I’m @ferdi-ganteng-dealpos
 - 👀 I’m interested in AFAAN TUH
 - 🌱 I’m currently learning AFAAN TUH

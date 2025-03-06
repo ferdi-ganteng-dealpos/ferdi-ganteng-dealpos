@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://i.postimg.cc/Dw9n43j8/3dgifmaker02246.gif" alt="Sublime's custom image"/>
-  <img src="https://i.postimg.cc/kXDmjgL2/3dgifmaker61278.gif" alt="Sublime's custom image"/>
+  <img src="https://i.postimg.cc/JhCC4c0X/3dgifmaker33391.gif" alt="Sublime's custom image"/>
+  <img src="https://i.postimg.cc/FR9t0rjs/3dgifmaker51336.gif" alt="Sublime's custom image"/>
 </p>
 <div align="center">
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />

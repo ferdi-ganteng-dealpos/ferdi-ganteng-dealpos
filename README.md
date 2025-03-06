@@ -1,5 +1,6 @@
 <p align="center">
   <img src="https://i.postimg.cc/Dw9n43j8/3dgifmaker02246.gif" alt="Sublime's custom image"/>
+  <img src="https://i.postimg.cc/kXDmjgL2/3dgifmaker61278.gif" alt="Sublime's custom image"/>
 </p>
 <div align="center">
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
@@ -7,7 +8,6 @@
   <br />
 </div>
 
-![](https://i.postimg.cc/zXkgk0Zz/image.png)
 
 - 👋 Hi, I’m @ferdi-ganteng-dealpos
 - 👀 I’m interested in AFAAN TUH
@@ -17,9 +17,7 @@
 - 😄 Pronouns: AFAAN/TUH
 - ⚡ Fun fact: AFAAN TUH
 
-![](https://i.postimg.cc/5NDSzHfb/image.png)
-![](https://i.postimg.cc/BnM2JNMY/image.png)
-
+![](https://i.postimg.cc/zXkgk0Zz/image.png)
 
 
 <!---

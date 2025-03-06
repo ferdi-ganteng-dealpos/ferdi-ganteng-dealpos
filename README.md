@@ -67,7 +67,7 @@
   <br />
 </div>
 
-<div align="center">
+<div align="center" style="margin-bottom:20px">
   <img src="https://i.postimg.cc/LXLjzS35/2223123-removebg-preview-1.png" 
        style="width: 25px; height: auto;" 
        alt="Welcome to my Github Profile" />
@@ -129,9 +129,6 @@
        style="width: 25px; height: auto;" 
        alt="Welcome to my Github Profile" />
 </div>
-
-
-
 
 - 👋 Hi, I’m @ferdi-ganteng-dealpos
 - 👀 I’m interested in AFAAN TUH

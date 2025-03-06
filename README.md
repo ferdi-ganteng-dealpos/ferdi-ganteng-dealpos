@@ -13,6 +13,8 @@
 - ⚡ Fun fact: AFAAN TUH
 
 ![](https://i.postimg.cc/5NDSzHfb/image.png)
+![](https://i.postimg.cc/BnM2JNMY/image.png)
+
 
 
 <!---

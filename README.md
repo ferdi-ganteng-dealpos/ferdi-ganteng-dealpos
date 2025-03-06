@@ -6,6 +6,9 @@
 - 😄 Pronouns: AFAAN/TUH
 - ⚡ Fun fact: AFAAN TUH
 
+![](https://user-images.githubusercontent.com/507615/90595977-95e70e80-e220-11ea-864a-6a61adaff212.png)
+
+
 <!---
 ferdi-ganteng-dealpos/ferdi-ganteng-dealpos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

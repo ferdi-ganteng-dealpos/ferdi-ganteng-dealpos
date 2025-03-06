@@ -4,6 +4,8 @@
   <br />
 </div>
 
+![](https://i.postimg.cc/zXkgk0Zz/image.png)
+
 - 👋 Hi, I’m @ferdi-ganteng-dealpos
 - 👀 I’m interested in AFAAN TUH
 - 🌱 I’m currently learning AFAAN TUH
